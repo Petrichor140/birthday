@@ -37,7 +37,7 @@ var config = {
     imgs: {
         "送给伟大的阿库勒阿花": "./imgs/xiaokeai.png",
         "今天是你的生日": "./imgs/yeah.jpg",
-        "（你的抽象我学不来）": "./imgs/yeah.jpg",
+        "（你的抽象我学不来）": "./imgs/chouxiang.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
