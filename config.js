@@ -36,13 +36,13 @@ var config = {
      */
     imgs: {
         "送给伟大的阿库勒阿花": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "今天是你的生日": "./imgs/xiaokeai.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "太安静了，来点音乐",
-        bannar_coming: "来点横幅",
+        bannar_coming: "来个横幅",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
